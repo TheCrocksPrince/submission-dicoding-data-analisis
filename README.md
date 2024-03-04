@@ -1,6 +1,6 @@
 # E-Commerce Public Data Analysis with Python - Dicoding Indonesia
 
-[E-Commerce Data Dashboard Streamlit App]((https://dashboard-app-ecommerce-aurelly.streamlit.app/))
+[E-Commerce Data Dashboard Streamlit App](https://dashboard-app-ecommerce-aurelly.streamlit.app/)
 
 ## Table of Contents
 - [Overview](#overview)
