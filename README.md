@@ -47,7 +47,7 @@ atau
 ```
 python -m streamlit run dashboardku.py
 ```
-Akses dashboard di web browser Anda di `http://localhost:8501`.
+Akses dashboard di web browser Anda pada `http://localhost:8501`.
 
 ## Data Sources
-Proyek ini menggunakan E-Commerce Public Dataset pada [Belajar Analisis Data dengan Python's Final Project](https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view) dari [Dicoding](https://www.dicoding.com/).
+Proyek ini menggunakan E-Commerce Public Dataset pada [Final Project Belajar Analisis Data dengan Python](https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view) dari [Dicoding](https://www.dicoding.com/).
