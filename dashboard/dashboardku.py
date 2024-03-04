@@ -29,7 +29,7 @@ max_date = all_df["order_approved_at"].max()
 with st.sidebar:
     st.sidebar.title("Aurelly Joeandani")
     st.sidebar.write("Machine Learning Cohort at Bangkit Academy 2024 Batch 1")
-    st.sidebar.image("profil.png", width=150, use_column_width='auto')  
+    st.sidebar.image("https://github.com/TheCrocksPrince/submission-dicoding-data-analisis/blob/main/dashboard/profil.png", width=150, use_column_width='auto')  
     st.sidebar.write("Email: aurellyjoean@gmail.com")  
     st.sidebar.write("Linkedin: https://www.linkedin.com/in/aurelly/")
 
