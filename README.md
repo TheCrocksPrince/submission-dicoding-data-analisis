@@ -41,7 +41,11 @@ pip install -r requirements.txt
 
 ```
 cd submission-dicoding-data-analisis/dashboard
-streamlit run dashboardku.py atau python -m streamlit run dashboardku.py
+streamlit run dashboardku.py  
+```
+atau
+```
+python -m streamlit run dashboardku.py
 ```
 Akses dashboard di web browser Anda di `http://localhost:8501`.
 
